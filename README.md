@@ -1,26 +1,57 @@
-## Task
-- Fork this repo it will create a copy of the repo under your own GitHub account. You can fork a repo by clicking the **Fork** button on the top right corner of the repo page.
-- Clone your forked repo to your local machine. You can do this by running **`git clone https://github.com/your_username/learn-to-use-github`** in your terminal, where **`your_username`** is your GitHub username.
-- Create a new branch for your changes. You can do this by running **`git checkout -b branch_name`**, where **`branch_name`** is a descriptive name for your branch.
-- Now, create a newfile in the usernames directory bearing your username **`your_github_username.txt`** like **`codernakul.txt`** and contents of the file should be **`your_full_name - your_github_username`** like **`Nakul Singh - codernakul`**
-- Add and commit your changes to the new branch. You can do this by running **`git add .`** to stage all your changes and **`git commit -m "message"`** to commit them with a message, where **`message`** is a brief summary of what you did for instance **`git commit -m "Create codernakul.txt"`**
-- Push your changes to your forked repo on GitHub. You can do this by running **`git push origin branch_name`**, where **`branch_name`** is the name of your branch.
-- Create a pull request from your forked repo to the original repo. You can do this by going to your forked repo on GitHub and clicking the **Compare & pull request** button. This will open a page where you can review your changes and add a title and a description for your pull request. Then click **Create pull request** to submit it.
+## Task (Beginner-Friendly)
 
-That's it! You have created a pull request for a public git repo. Now you need to wait for the maintainers to review and merge your pull request.
-We might also ask you for some feedback or changes before merging it. You can communicate with us through the comments section of your pull request.
+This task is designed to help beginners understand how to contribute to a public GitHub repository.
+
+### Step 1: Fork the Repository
+- Click the **Fork** button at the top-right corner of this repository.
+- This will create a copy of the repository under your own GitHub account.
+
+### Step 2: Create a New File
+- Open your forked repository.
+- Go to the **usernames** directory.
+- Click **Add file → Create new file**.
+- Name the file as:
+  
+  your_github_username.txt  
+  (Example: codernakul.txt)
+
+### Step 3: Add Content to the File
+Inside the file, write your details in the following format:
+
+Your Full Name - your_github_username  
+Example:  
+Nakul Singh - codernakul
+
+### Step 4: Commit the File
+- Scroll down to the **Commit changes** section.
+- Write a commit message like:
+  
+  Add my username file
+
+- Click **Commit new file**.
+
+### Step 5: Create a Pull Request
+- After committing, GitHub will show an option **Compare & pull request**.
+- Click it.
+- Add a simple title like:
+  
+  Add username file
+
+- Click **Create pull request**.
+
+That’s it 🎉  
+You have successfully created a pull request for a public GitHub repository.
+
+### What Happens Next?
+- Maintainers will review your pull request.
+- They may ask for changes or feedback using comments.
+- Once approved, your pull request will be merged.
+
+---
 
 ## Maintainers
-- Rohit Lal
-- Aditya Shirwatkar
-- Muhammed Abdullah
-- Aayush Fadia
+- Rohit Lal  
+- Aditya Shirwatkar  
+- Muhammed Abdullah  
+- Aayush Fadia  
 - Nakul Singh
-```
-.___      .____          ___.           
-|   |__  _|    |   _____ \_ |__   ______
-|   \  \/ /    |   \__  \ | __ \ /  ___/
-|   |\   /|    |___ / __ \| \_\ \\___ \ 
-|___| \_/ |_______ (____  /___  /____  >
-                  \/    \/    \/     \/ 
-```
